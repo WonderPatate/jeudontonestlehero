@@ -1,0 +1,9 @@
+C:\Users\Marine\source\repos\jeudontonestlehero\STAGE\jeudontonestlehero\jeudontonestlehero.Core.data\bin\Debug\netcoreapp3.1\jeudontonestlehero.Core.data.deps.json
+C:\Users\Marine\source\repos\jeudontonestlehero\STAGE\jeudontonestlehero\jeudontonestlehero.Core.data\bin\Debug\netcoreapp3.1\jeudontonestlehero.Core.data.dll
+C:\Users\Marine\source\repos\jeudontonestlehero\STAGE\jeudontonestlehero\jeudontonestlehero.Core.data\bin\Debug\netcoreapp3.1\jeudontonestlehero.Core.data.pdb
+C:\Users\Marine\source\repos\jeudontonestlehero\STAGE\jeudontonestlehero\jeudontonestlehero.Core.data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.data.csprojAssemblyReference.cache
+C:\Users\Marine\source\repos\jeudontonestlehero\STAGE\jeudontonestlehero\jeudontonestlehero.Core.data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.data.AssemblyInfoInputs.cache
+C:\Users\Marine\source\repos\jeudontonestlehero\STAGE\jeudontonestlehero\jeudontonestlehero.Core.data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.data.AssemblyInfo.cs
+C:\Users\Marine\source\repos\jeudontonestlehero\STAGE\jeudontonestlehero\jeudontonestlehero.Core.data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.data.csproj.CoreCompileInputs.cache
+C:\Users\Marine\source\repos\jeudontonestlehero\STAGE\jeudontonestlehero\jeudontonestlehero.Core.data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.data.dll
+C:\Users\Marine\source\repos\jeudontonestlehero\STAGE\jeudontonestlehero\jeudontonestlehero.Core.data\obj\Debug\netcoreapp3.1\jeudontonestlehero.Core.data.pdb

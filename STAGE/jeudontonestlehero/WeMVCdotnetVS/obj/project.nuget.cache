@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WmijbLh8DXtPYqi7ehSwpAxih9EGXfXISuIGb1Iibf0e59Um0T40FxmwhzENIMgUNFYK6Kzy38ZHXbYnzu8TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marine\\source\\repos\\jeudontonestlehero\\STAGE\\jeudontonestlehero\\WeMVCdotnetVS\\WeMVCdotnetVS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marine\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
